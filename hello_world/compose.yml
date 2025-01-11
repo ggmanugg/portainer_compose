@@ -1,3 +1,4 @@
 services:
   hello_world:
+    container_name: chabis
     image: hello-world
